@@ -28,7 +28,7 @@
 <body>
 	<div id="navWrapper">
 	<nav id="navContainer">
-	<img src="assets/" alt="">
+	<img src="assets/hickory-head-logo.png" alt="">
 	<ul>
 				<li class="navItems"><p class="navText">Hickory Head Baptist</p></li>
 				<li class="navItems"><a href="index.php">Home</a></li>
