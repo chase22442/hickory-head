@@ -5,5 +5,5 @@
 Level: Easy
 </p>
 <p>
-Colors that will be used can be found here:   http://www.paletton.com/#uid=13n0u0kwi++bu++hX++++rd++kX 
+Colors that will be used can be found here:  http://www.paletton.com/#uid=53n0u0kwi++bu++hX++++rd++kX 
 </p>
