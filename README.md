@@ -1,5 +1,5 @@
-<h1>This is a site for my local church.</h1> 
-<h2>Also using this to test my knowledge from diffrent sources.</h2> 
+<h2>This is a site for my local church.</h2> 
+<h3>Also using this to test my knowledge from diffrent sources.</h3> 
 
 <p>
 Level: Easy
